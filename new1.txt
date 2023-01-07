@@ -1,2 +1,4 @@
 hello 
 we are in new1.txt file
+and now its again updated in local and next step is to push on git
+lets try
