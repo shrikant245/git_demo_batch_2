@@ -2,3 +2,6 @@ this has been creted at remote and now i want to sync this to local
 and now this line has been added from local
 gain it has been added
 
+
+now this has been added f rom remote and now i want it to sync on local as well 
+
