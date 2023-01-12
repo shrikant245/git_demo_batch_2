@@ -3,5 +3,6 @@ and now this line has been added from local
 gain it has been added
 
 
-now this has been added f rom remote and now i want it to sync on local as well 
+now this has been added f rom remote and now i want it to sync on local as well
 
+today is thrusday and i have updated this again
